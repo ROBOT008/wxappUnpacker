@@ -1,0 +1,2 @@
+
+ 打开文件管理器，找到/data/data/com.tencent.mm/MicroMsg 目录 ，然后找到一个很长的用户随机码文件夹，继续找到/appbrand/pkg/xxx，接下来会出现小程序A的wxapkg包
